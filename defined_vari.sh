@@ -1,4 +1,4 @@
-In This the variable_name and value id defined and using Func shown local and global variable.
+#In This the variable_name and value id defined and using Func shown local and global variable.
 
 
 JAVA_HOME=/usr/bin/java

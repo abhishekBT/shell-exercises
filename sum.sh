@@ -1,6 +1,6 @@
-User a give any values to the arg given and it read and sum it.
+#User a give any values to the arg given and it read and sum it.
 
-Solution
+#Solution
 
 #!/bin/bash
 echo "Give value for a: "
